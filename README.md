@@ -1,7 +1,7 @@
 # Cars Dataset
 
 This is another of my basic data analysis projects containing some data analysis and visualisation .
-Here , a data of different cars id given with there specifications namely : Make, Model, Type, Origin, DriveTrain, MSRP, Invoice, EngineSize, Cylinders, Horsepower, MPG_City, MPG_Highway, Weight, Wheelbase, Length. This Data is Present in a .csv file and we are going to analyse this data using Pandas Dataframe to answer a few questions
+Here , a data of different cars is given with there specifications namely : Make, Model, Type, Origin, MSRP, Invoice, EngineSize, Cylinders, Horsepower, MPG_City, MPG_Highway, Weight, Wheelbase, Length. This Data is Present in a .csv file and we are going to analyse this data using Pandas Dataframe to answer a few questions
 
 ## Data Source : - Kaggle
 
